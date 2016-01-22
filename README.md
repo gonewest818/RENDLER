@@ -43,8 +43,11 @@ Check implementations of the RENDLER scheduler in the `python`, `go`,
 
 - [Python RENDLER framework](python/README.md)
 - [Go RENDLER framework](go/README.md)
+- [Java RENDLER framework](java/README.md)
 - [Scala RENDLER framework](scala/README.md)
 - [C++ RENDLER framework](cpp/README.md)
+- [Haskell RENDLER framework](haskell/README.md)
+- [Clojure RENDLER framework](clojure/README.md)
 
 Feel free to contribute your own!
 
